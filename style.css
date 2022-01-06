@@ -1,0 +1,175 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/*--------------Start flax-container1111--------------------*/
+.flax-container1{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+}
+.flax-container1 div{
+    background-color: rgb(255, 255, 255);
+    width: 700px;
+    height: 600px;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.contact-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(228, 188, 10), rgb(231, 163, 37));
+    padding: 12px 30px;
+    color: rgb(57, 24, 204);
+    font-weight: 700;
+    border-radius: 6px;
+    margin-top: 30px; 
+}
+.flax-container1 img{
+    width: 500px;
+    height: 600px;
+    margin: 5px 5px 5px 5px;
+}
+.flax-container1 h1{
+    font-size: 45px;   
+}
+.flax-container1 h1 span{
+    color: purple;
+}
+.flax-container1 p{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    font-weight: 700;
+}
+
+/*--------------end flax-container---------------------*/
+/*--------------Start flax-container2222---------------------*/
+.my-mission h2{
+    text-align: center;
+    font-weight: bold;
+    font-size: 45px;
+}
+.my-mission h2 span{
+    color: rebeccapurple;
+}
+.flax-container2{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+}
+.flax-container2 div{
+    background-color: rgb(146, 97, 32);
+    width: 22%;
+    height: 400px;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.flax-container2 img{
+    width: 150px;
+    height: 150px;
+}
+#color1{
+    background-color: rgb(228, 223, 233);
+}
+#color2{
+    background-color: rgb(240, 231, 220);
+}
+#color3{
+    background-color: rgb(212, 243, 233);
+}
+/*--------------end flax-container---------------------*/
+/*--------------Start flax-container3333---------------------*/
+.flax-container3{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+}
+.flax-container3 div{
+    background-color: rgb(255, 255, 255);
+    height: 500px;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+}
+#flax-container3-div1{
+    width: 40%;
+}
+#flax-container3-div2{
+    width: 60%;
+}
+.flax-container3 img{
+    width: 450px;
+    height: 450px;
+    position: relative;
+    right: 0px;
+}
+.flax-container3 h2{
+    font-size: 35px;
+}
+.flax-container3 p{
+    padding-bottom: 20px;
+}
+/*--------------end flax-container---------------------*/
+/*--------------Start flax-container4444---------------------*/
+.flax-container4{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+}
+.flax-container4 div{
+    background-color: rgb(255, 255, 255);
+    height: 500px;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+}
+#flax-container4-div1{
+    width: 60%;
+}
+#flax-container4-div2{
+    width: 40%;
+}
+.flax-container4 img{
+    width: 450px;
+    height: 450px;
+}
+.flax-container4 h2{
+    font-size: 35px;
+}
+.flax-container4 p{
+    padding-bottom: 20px;
+}
+/*--------------end flax-container---------------------*/
+/*--------------Start flax-container5555---------------------*/
+.flax-container5{background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+}
+.flax-container5 div{
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+    height: 600px;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.flax-container5 img{
+    width: 550px;
+    height: 630px;
+}
+.flax-container5 h3{
+    font-size: 30px;
+}
+/*--------------end flax-container5555---------------------*/
+/*--------------start footer section---------------------*/
+.flax-container6{background-color: rgb(2, 1, 1);
+    color: rgb(228, 223, 233);
+    display: flex;
+    height: 170px;
+    text-align: center;
+    justify-content: center;
+}
+.flax-container6 div h2 span{
+    color: rgb(132, 24, 204);
+}
+/*--------------end footer section---------------------*/
